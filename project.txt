@@ -5301,7 +5301,7 @@
 "children":[],
 "roles":{
 "slide":{
-"durationInFrames":90
+"durationInFrames":183
 }
 ,
 "navigation":{
