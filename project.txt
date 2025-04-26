@@ -3170,14 +3170,6 @@
 
 },
 {
-"id":"si17403",
-"class":"TODO::Senthil",
-"instance":"Mouse_31",
-"roles":{
-}
-
-},
-{
 "id":"si17753",
 "class":"TODO::Senthil",
 "instance":"Rectangle_43",
